@@ -1,7 +1,7 @@
 package model
 
 import (
-	"modbug/v7/inner"
+	"github.com/agnivade/modbug/v7/inner"
 )
 
 func Why() string {

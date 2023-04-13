@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	modbug "modbug/v7"
-	"modbug/v7/inner"
+	modbug "github.com/agnivade/modbug/v7"
+	"github.com/agnivade/modbug/v7/inner"
 )
 
 func main() {
