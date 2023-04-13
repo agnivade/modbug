@@ -8,5 +8,6 @@ import (
 
 func main() {
 	fmt.Println(modbug.Hi())
+	fmt.Println(modbug.PGM())
 	fmt.Println(inner.Inner())
 }
